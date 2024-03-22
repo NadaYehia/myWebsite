@@ -77,11 +77,15 @@ sections:
         - title: PhD researcher 
           company: University of Sheffield
           company_url: ''
-          company_logo: org-x
           location: Sheffield, United Kindgom
           date_start: '2018-10-01'
           date_end: '2022-06-21'
           description: Taught electronic engineering and researched semiconductor physics.
+        -title: Machine learning engineer
+         company: Pixellion
+         location: Cairo, Egypt
+         date_start: '2018-01-01'
+         date_end: '2018-09-15'    
     design:
       columns: '2'
   - block: collection
