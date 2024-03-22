@@ -80,7 +80,7 @@ sections:
           location: Sheffield, United Kindgom
           date_start: '2018-10-01'
           date_end: '2022-06-21'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 
         - title: Machine learning engineer
           company: Pixellion
           location: Cairo, Egypt
