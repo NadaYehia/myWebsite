@@ -18,8 +18,8 @@ role: Postdoctoral scientist in computational neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  name: Janelia Research Campus- HHMI
-  url:  [https://www.stanford.edu/](https://www.janelia.org/lab/dudman-lab/)
+  -name: Janelia Research Campus- HHMI
+    url:  [https://www.stanford.edu/](https://www.janelia.org/lab/dudman-lab/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
