@@ -86,11 +86,11 @@ sections:
           location: Cairo, Egypt
           date_start: '2018-01-01'
           date_end: '2018-09-15'
-        -title: Research assistant and Masters student
-         company: Nile University
-         location: Giza, Egypt
-         date_start: '2014-10-01'
-         date_end: '2017-06-30'
+        - title: Research assistant and Masters student
+          company: Nile University
+          location: Giza, Egypt
+          date_start: '2014-10-01'
+          date_end: '2017-06-30'
               
     design:
       columns: '2'
