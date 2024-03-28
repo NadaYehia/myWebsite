@@ -58,7 +58,7 @@ skills:
         percent: 80
         icon: neural network
         icon_pack: fas
-      - name: Mathematical Modeling
+      - name: Mathematical Modeling (e.g. synaptic plasticity rules, Bayesian Inference, Generative models)
         description: ''
         percent: 100
         icon: equations
@@ -66,8 +66,8 @@ skills:
       - name: Python (with tensor flow and pytorch)
         description: ''
         percent: 60
-        icon: database
-        icon_pack: fas
+        icon: python
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
