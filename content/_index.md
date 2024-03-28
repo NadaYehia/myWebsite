@@ -65,15 +65,15 @@ sections:
         - title: Postdoctoral associate
           company: Janelia research campus - Howard Hughes Medical institute 
           company_url: ''
-          location: Virginia
+          location: Virginia, United States of America
           date_start: '2022-08-15'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Analysing behavioral data
+              * Modeling brain computations and logic
+              * Providing the code implementation for the modeling and analysis work 
         - title: PhD researcher 
           company: University of Sheffield
           company_url: ''
@@ -85,7 +85,13 @@ sections:
           company: Pixellion
           location: Cairo, Egypt
           date_start: '2018-01-01'
-          date_end: '2018-09-15'    
+          date_end: '2018-09-15'
+        -title: Research assistant and Masters student
+         company: Nile University
+         location: Giza, Egypt
+         date_start: '2014-10-01'
+         date_end: '2017-06-30'
+              
     design:
       columns: '2'
   - block: collection
@@ -108,32 +114,19 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Have question? Let's connect!.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: nadaelhussieny878@gmail.com
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 19700 Helix Drive
+        city: Ashburn
+        region: VA
+        postcode: '20147'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates 
+    # Choose a map provider in `params.yaml` to show a map from these coordinates 
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
