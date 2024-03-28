@@ -48,39 +48,39 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+      - name: Matlab
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        icon: matlab
+        icon_pack: fab
+      - name: Machine Learning
         description: ''
-        percent: 40
+        percent: 80
+        icon: neural network
+        icon_pack: fas
+      - name: Mathematical Modeling
+        description: ''
+        percent: 100
+        icon: equations
+        icon_pack: fab    
+      - name: Python (with tensor flow and pytorch)
+        description: ''
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Crossfit
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: gym
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Running
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person-running
         icon_pack: fas
 
 # Social/Academic Networking
