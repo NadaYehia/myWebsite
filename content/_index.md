@@ -108,6 +108,20 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: Recent projects
+    content:
+      title: model for rapid saptial learning via effeicent exploration and inference
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation  
   - block: contact
     id: contact
     content:
