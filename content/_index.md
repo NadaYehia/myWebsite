@@ -109,16 +109,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: Recent projects
-    id: recent projects
-    content:
-      title: Recent projects
-      subtitle:
-      text: |-
-        Mathematical methods for the model mouse's trajectory generative function
-        content: <embed src="/content/recentProjects/Methods_trajectory_planner.pdf" type="application/pdf">
-    design:
-      columns: '2' 
   - block: contact
     id: contact
     content:
