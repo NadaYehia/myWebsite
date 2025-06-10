@@ -95,6 +95,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -109,6 +110,7 @@ sections:
       columns: '2'
       view: citation
   - block: Recent projects
+    id: recent projects
     content:
       title: Recent projects
       subtitle:
