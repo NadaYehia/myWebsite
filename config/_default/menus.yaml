@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: Recent Projects
+    url: '#recent projects'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 60
