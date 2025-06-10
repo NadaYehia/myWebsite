@@ -110,18 +110,15 @@ sections:
       view: citation
   - block: Recent projects
     content:
-      title: model for rapid saptial learning via effeicent exploration and inference
+      title: Recent projects
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        (./recentProjects/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - recentProjects
         exclude_featured: true
-    design:
-      columns: '2'
-      view: citation  
   - block: contact
     id: contact
     content:
