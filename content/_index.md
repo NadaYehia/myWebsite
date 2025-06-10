@@ -111,14 +111,7 @@ sections:
   - block: Recent projects
     content:
       title: Recent projects
-      text: |-
-        {{% callout note %}}
-        (./recentProjects/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - recentProjects
-        exclude_featured: true
+      ![--](/recentProjects/Methods_trajectory_planner (1).pdf "Mathematical methods for the model mouse's trajectory generative function")
   - block: contact
     id: contact
     content:
