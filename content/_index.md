@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Home'
 date: 2022-10-24
 type: landing
 
@@ -71,9 +71,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing behavioral data
-              * Modeling brain computations and logic
-              * Providing the code implementation for the modeling and analysis work 
+              * I developed a computational model for spatial navigation that mimics real animal behavior and their fast learning dynamics.
+              * My model integrates goal learning with motion planning and execution using a Bayesian inference framework, outperforming existing Reinforcement Learning (RL) algorithms that solve the same problem.
+              * I drove research from theoretical conception to practical implementation resulting in a software package to simulate agents' learning to intercept hidden rewards given any environment setup. 
         - title: PhD researcher 
           company: University of Sheffield
           company_url: ''
@@ -117,7 +117,7 @@ sections:
         Have question? Let's connect!.
       # Contact (add or remove contact options as necessary)
       email: nadaelhussieny878@gmail.com
-      phone: 888 888 88 88
+      phone: +1 571 436 3187
       address:
         street: 19700 Helix Drive
         city: Ashburn
