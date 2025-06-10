@@ -98,10 +98,6 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -109,6 +105,10 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: Recent projects
+    id: recent projects
+    content:
+      title: Recent projects
   - block: contact
     id: contact
     content:
