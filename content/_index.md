@@ -114,7 +114,7 @@ sections:
       subtitle:
       text: |-
         Mathematical methods for the model mouse's trajectory generative function
-      <embed src="/content/Methods_trajectory_planner (1).pdf" type="application/pdf">
+      <embed src="/content/recentProjects/Methods_trajectory_planner.pdf" type="application/pdf">
     design:
       columns: '2' 
   - block: contact
