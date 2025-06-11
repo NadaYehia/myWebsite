@@ -112,7 +112,7 @@ sections:
       title: Recent projects
 ---    
 Mathematical methods for the model mouse's trajectory generative functions
-{{<recent-projects >}}
+{{< recent-projects >}}
 
 ---
   - block: contact
