@@ -109,7 +109,7 @@ sections:
     id: recent projects
     content:
       title: Recent projects
-      subtitle: Journal manuscript in preparation 
+      subtile: {{ partial "blocks/recent projects.html" . }}
   - block: contact
     id: contact
     content:
