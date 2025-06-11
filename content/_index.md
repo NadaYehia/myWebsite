@@ -109,7 +109,7 @@ sections:
     id: recent projects
     content:
       title: Recent projects
-      tite:  {{<recent projects >}}
+      tite:  {{<recent-projects >}}
   - block: contact
     id: contact
     content:
