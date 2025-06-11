@@ -109,6 +109,6 @@ sections:
 ## Recent projects: 
 ### Model for rapid spatial learning using effeicent exploration and inferences.
 ### Cosyne2025 Poster:
-{{ partial "pdfembed.html" "static/uploads/Cosyne2025_vf.pdf" }}
+{{ partial "pdfembed.html" "/uploads/Cosyne2025_vf.pdf" }}
 ### Mathematical Methods for the model mouse's trajectory generative functions.
-{{ partial "pdfembed.html" "static/uploads/Methods_trajectory_planner.pdf" }}
+{{ partial "pdfembed.html" "/uploads/Methods_trajectory_planner.pdf" }}
