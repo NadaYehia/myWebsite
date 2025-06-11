@@ -110,9 +110,7 @@ sections:
     id: recent-projects
     content:
       title: Recent Projects    
-      body:
-        - type: html
-          html: '<embed src="/static/uploads/Methods_trajectory_planner.pdf" width="100%" height="800px" type="application/pdf">'
+      pdf: "/static/uploads/Methods_trajectory_planner.pdf"
   - block: contact
     id: contact
     content:
