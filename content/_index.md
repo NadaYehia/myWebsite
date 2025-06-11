@@ -113,7 +113,6 @@ sections:
 ---    
 Mathematical methods for the model mouse's trajectory generative functions
 {{< recent-projects >}}
-
 ---
   - block: contact
     id: contact
