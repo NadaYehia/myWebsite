@@ -110,5 +110,4 @@ sections:
     id: recent-projects
     content:
       title: Recent Projects
-
 ---
