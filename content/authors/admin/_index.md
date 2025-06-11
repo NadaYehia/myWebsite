@@ -66,7 +66,7 @@ skills:
       - name: PyTorch
         description: ''
         percent: 70
-      - name:Numpy,Scikit-learn
+      - name: (Numpy,Scikit-learn)
         percent: 80
       - name: Reinforcement learning algorithms
         percent: 60
