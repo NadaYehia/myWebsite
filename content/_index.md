@@ -106,14 +106,10 @@ sections:
       columns: '2'
       view: citation
     
-  - block: Recent projects
-    id: recent projects
+  - block: recent-projects
+    id: recent-projects
     content:
-      title: Recent projects
----    
-Mathematical methods for the model mouse's trajectory generative functions
-{{< recent-projects >}}
----
+      title: Recent Projects
   - block: contact
     id: contact
     content:
@@ -150,3 +146,5 @@ Mathematical methods for the model mouse's trajectory generative functions
     design:
       columns: '2'
 ---
+Mathematical methods for the model mouse's trajectory generative functions
+{{< recent-projects >}}
