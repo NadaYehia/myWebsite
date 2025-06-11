@@ -105,6 +105,11 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: Recent projects
+    id: recent projects
+    content:
+      title: Recent projects
+      subtitle: Journal manuscript in preparation 
   - block: contact
     id: contact
     content:
