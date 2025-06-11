@@ -147,3 +147,4 @@ sections:
     design:
       columns: '2'
 ---
+{{< pdfembed src=.Params.pdf >}}
