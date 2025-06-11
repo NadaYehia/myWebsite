@@ -105,10 +105,10 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: recent-projects
+    id: recent-projects
+    content:
+      title: Recent Projects
+
 ---
-## Recent projects: 
-### Model for rapid spatial learning using effeicent exploration and inferences.
-### Cosyne2025 Poster:
-{{ partial "pdfembed.html" "/uploads/Cosyne2025_vf.pdf" }}
-### Mathematical Methods for the model mouse's trajectory generative functions.
-{{ partial "pdfembed.html" "/uploads/Methods_trajectory_planner.pdf" }}
