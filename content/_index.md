@@ -110,6 +110,8 @@ sections:
     id: recent-projects
     content:
       title: Recent Projects
+      {{< recent-projects "/static/uploads/Methods_trajectory_planner.pdf" >}}
+
   - block: contact
     id: contact
     content:
@@ -146,5 +148,3 @@ sections:
     design:
       columns: '2'
 ---
-Mathematical methods for the model mouse's trajectory generative functions
-{{< recent-projects >}}
