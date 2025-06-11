@@ -107,13 +107,10 @@ sections:
       view: citation
 
   - block: recent-projects
+    id: recent-projects
     content:
       title: Recent Projects
-      subtitle: Model for rapid spatial learning via effeicent exploration and inference.
-      description: |2-
-          Animals quickly learn to navigate to rewarding or salient landmarks in their environments. However, existing models often require thousands of trials             to learn contingencies that animals learn within tens of trials, and they do so via unstructured sequences of actions that do not mimic real behavior.             In this work, we study rapid learning in a hidden-target foraging task for mice in which animals learn to intercept an uncued target location within an
-          open arena. In this work we integrate concepts that have typically been treated separately—such as motor
-          planning, execution, and spatial learning—to understand how animals efficiently explore space and quickly modify
-          their behavior based on experience. Our model succeeds in replicating animals fast learning dynamics (learning to intercept hidden targets in tens of              trials) and mimics their naturalistic trajectories. 
-      id: recent-projects  
+        subtitle: Model for rapid spatial learning via effeicent exploration and inference.
+      
+        
 ---
