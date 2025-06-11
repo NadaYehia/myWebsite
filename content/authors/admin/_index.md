@@ -48,11 +48,6 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Matlab
-        description: ''
-        percent: 100
-        icon: matlab
-        icon_pack: fab
       - name: Machine Learning
         description: ''
         percent: 80
@@ -63,10 +58,22 @@ skills:
         percent: 100
         icon: equations
         icon_pack: fab    
-      - name: Python (with tensor flow and pytorch)
+      - name: Python 
         description: ''
-        percent: 60
+        percent: 80
         icon: python
+        icon_pack: fab
+      - name: PyTorch
+        description: ''
+        percent: 70
+      - name:Numpy,Scikit-learn
+        percent: 80
+      - name: Reinforcement learning algorithms
+        percent: 60
+      - name: Matlab
+        description: ''
+        percent: 100
+        icon: matlab
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
@@ -111,5 +118,14 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral scientist in computational neuroscience at the Dudman and Hermundstad labs in Janelia research campus. As a Postdoctoral Associate at Howard Hughes Medical Institute (HHMI), I conduct cutting-edge research in neuroscience, applying programming and theortical modeling skills to explain animals' behavioral data and model their underlying computational logic. I have over five years of work experience in the fields of computational neuroscience, medical informatics and image processing, and machine learning, having worked as a PhD graduate at The University of Sheffield, a Machine Learning Engineer at AUC Venture Lab and a Masters graduate in the medical informatics group at Nile University. I have developed and implemented innovative solutions for various challenges, such as creating a deep learning framework for retail analytics, building an image processing and machine learning pipeline to screen for cardiovascular risk using eye images, and modeling learning and plasticity rules in rate firing neural networks. My core competencies include programming, algorithms, computer vision, data analysis, and problem-solving. I am passionate about advancing the scientific understanding of the brain and its functions, and contributing to the development of new technologies and applications that can improve human health and well-being. I value collaboration, creativity, and curiosity, and seek to join a team that shares these values and supports my professional growth.
+I am a Postdoctoral Associate in Computational Neuroscience at Howard Hughes Medical Institute's Janelia Research Campus, where I work in the Dudman and Hermundstad labs to bridge theoretical models with behavioral data. My research deciphers the computational logic underlying animal behavior, combining advanced programming, machine learning, and mathematical modeling.
+*With 5+ years of interdisciplinary experience across computational neuroscience, medical AI, and machine learning, I’ve developed innovative solutions such as:*
+
+A deep learning framework for retail analytics (AUC Venture Lab)
+
+An AI pipeline for cardiovascular risk screening from retinal images (Nile University)
+
+Biologically plausible learning rules for spiking neural networks (University of Sheffield)
+
+My technical expertise spans algorithms, computer vision, and large-scale data analysis, but I’m driven by a deeper mission: advancing brain science to improve human health. I thrive in collaborative environments that value curiosity, creativity, and translational impact—and I’m eager to contribute these perspectives to teams tackling bold challenges in neurotechnology and AI
 {style="text-align: justify;"}
