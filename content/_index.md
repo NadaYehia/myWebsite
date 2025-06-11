@@ -106,3 +106,4 @@ sections:
       columns: '2'
       view: citation
 ---
+{{ partial "pdfembed.html" "static/uploads/Methods_trajectory_planner.pdf" }}
