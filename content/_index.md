@@ -109,9 +109,10 @@ sections:
   - block: recent-projects
     id: recent-projects
     content:
-      title: Recent Projects
-      {{< recent-projects "/static/uploads/Methods_trajectory_planner.pdf" >}}
-
+      title: Recent Projects    
+      body:
+        - type: html
+          html: '<embed src="/static/uploads/Methods_trajectory_planner.pdf" width="100%" height="800px" type="application/pdf">'
   - block: contact
     id: contact
     content:
