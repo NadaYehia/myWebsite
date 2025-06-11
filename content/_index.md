@@ -110,7 +110,5 @@ sections:
     id: recent-projects
     content:
       title: Recent Projects
-        subtitle: Model for rapid spatial learning via effeicent exploration and inference.
-      
-        
+        subtitle: Model for rapid spatial learning via effeicent exploration and inference.     
 ---
