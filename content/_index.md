@@ -105,11 +105,16 @@ sections:
     design:
       columns: '2'
       view: citation
+    
   - block: Recent projects
     id: recent projects
     content:
       title: Recent projects
-      tite:  {{<recent-projects >}}
+---    
+Mathematical methods for the model mouse's trajectory generative functions
+{{<recent-projects >}}
+
+---
   - block: contact
     id: contact
     content:
