@@ -105,10 +105,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: Recent projects
-    id: recent projects
-    content:
-      title: Recent projects
   - block: contact
     id: contact
     content:
