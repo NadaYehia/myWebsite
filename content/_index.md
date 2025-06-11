@@ -109,7 +109,7 @@ sections:
     id: recent projects
     content:
       title: Recent projects
-      subtile: {{ partial "blocks/recent projects.html" . }}
+      {{<recent projects >}}
   - block: contact
     id: contact
     content:
