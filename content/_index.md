@@ -74,24 +74,42 @@ sections:
               * I developed a computational model for spatial navigation that mimics real animal behavior and their fast learning dynamics.
               * My model integrates goal learning with motion planning and execution using a Bayesian inference framework, outperforming existing Reinforcement Learning (RL) algorithms that solve the same problem.
               * I drove research from theoretical conception to practical implementation resulting in a software package to simulate agents' learning to intercept hidden rewards given any environment setup. 
-        - title: PhD researcher 
+        - title: Doctoral researcher 
           company: University of Sheffield
           company_url: ''
           location: Sheffield, United Kindgom
-          date_start: '2018-10-01'
-          date_end: '2022-06-21'
-          description: 
+          date_start: '2022-05-01'
+          date_end: '2022-08-01'
+          description: |2-
+              Responsibilities include:
+              * I implemented an Echo State Network model (ESN) for electromyography (EMG) hand gestures classification.
+              * The model serves as a benchmark for Recurrent Neural Networks (especially Echo State Networks) performance to
+                classify real EMG data from amputees using the NinaPro public dataset.
+
         - title: Machine learning engineer
-          company: Pixellion
+          company: American University in Cairo (AUC)
           location: Cairo, Egypt
           date_start: '2018-01-01'
-          date_end: '2018-09-15'
+          date_end: '2018-08-01'
+          description: |2-
+              Responsibilities include:
+              * I developed a Convolutional Neural Network (CNN) used in automated in-store inventory management.
+              * I trained a CNN model to recognize and segment our customers’ products from mobile phone cameras' shelf images.
+              * My model succeeded to extract the target images, along with history data in the same store it computed sales metrics 
+                to help business owners maximize their profits.
+    
         - title: Research assistant and Masters student
           company: Nile University
           location: Giza, Egypt
           date_start: '2014-10-01'
           date_end: '2017-06-30'
-              
+          description: |2-
+              Responsibilities include:
+              * Developed an image analysis pipeline using computer vision algorithms to segment and classify blood vessles into arteries or veins and extract other geometrical features in scleral images taken by mobile cameras.
+              * I designed a prototype for the medical device that is used to acquire the scleral images, as well I was responsible for acquiring our dataset in healthy and patients subjects.
+              * This pipeline was used as a preliminary prototype to assess cardiovascular risk in individuals with poor access to medical care facilities.
+              * I found that some features in the eye vasculature, e.g arteriolar to venular diameter ratios, are good predictors for elevated cardiovascualr risk.
+              * This work was the first to quanitfy the utility of using scleral images in predicting cardiovascular risk and other conditions like Preeclampsia,                  a complication that can happen in some pregnancies.
     design:
       columns: '2'
   - block: collection
