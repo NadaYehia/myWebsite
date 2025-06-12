@@ -105,12 +105,13 @@ sections:
           date_end: '2017-06-30'
           description: |2-
               Responsibilities include:
-              * Developed an image analysis pipeline for scleral (eye white matter) blood vessels segmentation, classification and geometrical analysis to assess cardiovascular risk in patients with poor access to medical care facilities.
-              * I designed a hardware prototype for the medical device that we used to acquire the scleral images, as well I was responsible for acquiring our dataset in healthy and patient subjects.
-              * I found that some features in the eye vasculature, e.g primary arteriolar to venular diameter ratios, were correlated with high cardiovascular disease risk.
-              * This work was the first to quantify the utility of using scleral images in predicting cardiovascular risk and other conditions like Preeclampsia,                  a common pregnancy complication.
-              * I presented this work as a talk in NIH-IEEE Strategic Conference on Point of Care Technologies for Precision Medicine 2015 in Bethesda and as a poster in the International Symposium on Biomedical Imaging (ISBI) 2016.
-     
+              * Developed an image analysis and machine learning pipeline for segmenting, classifying, and geometrically analyzing scleral (eye white matter) blood vessels to assess cardiovascular risk in underserved patient populations.
+              * Designed a hardware prototype for the medical imaging device used to capture scleral images and led dataset acquisition from both healthy and at-risk subjects.
+              * Discovered key correlations between ocular vascular features (e.g., arteriolar-to-venular diameter ratios) and elevated cardiovascular disease risk.
+              * Pioneered the first quantitative study demonstrating the predictive value of scleral imaging for cardiovascular risk and conditions like preeclampsia, a common pregnancy complication.
+              * Presented these findings at the *NIH-IEEE Strategic Conference on Point-of-Care Technologies for Precision Medicine (2015, Bethesda)* and the International Symposium on Biomedical Imaging (ISBI 2016) as both an oral talk and poster.
+
+
     design:
       columns: '2'
   - block: collection
