@@ -108,7 +108,7 @@ sections:
               * Developed an image analysis pipeline for scleral (eye white matter) blood vessels segmentation, classification and geometrical analysis to assess cardiovascular risk in patients with poor access to medical care facilities.
               * I designed a hardware prototype for the medical device that we used to acquire the scleral images, as well I was responsible for acquiring our dataset in healthy and patient subjects.
               * I found that some features in the eye vasculature, e.g primary arteriolar to venular diameter ratios, were correlated with high cardiovascular disease risk.
-              * This work was the first to quantify the utility of using scleral images in predicting cardiovascular risk and other conditions like Preeclampsia,                  a common complication in pregnant women.
+              * This work was the first to quantify the utility of using scleral images in predicting cardiovascular risk and other conditions like Preeclampsia,                  a common pregnancy complication.
               * I presented this work as a talk in NIH-IEEE Strategic Conference on Point of Care Technologies for Precision Medicine 2015 in Bethesda and as a poster in the International Symposium on Biomedical Imaging (ISBI) 2016.
      
     design:
