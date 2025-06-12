@@ -98,18 +98,19 @@ sections:
               * My model succeeded to extract the target images, along with history data in the same store it computed sales metrics 
                 to help business owners maximize their profits.
     
-        - title: Research assistant and Masters student
+        - title: Graduate research assistant and Masters student
           company: Nile University
           location: Giza, Egypt
           date_start: '2014-10-01'
           date_end: '2017-06-30'
           description: |2-
               Responsibilities include:
-              * Developed an image analysis pipeline using computer vision algorithms to segment and classify blood vessles into arteries or veins and extract other geometrical features in scleral images taken by mobile cameras.
-              * I designed a prototype for the medical device that is used to acquire the scleral images, as well I was responsible for acquiring our dataset in healthy and patients subjects.
-              * This pipeline was used as a preliminary prototype to assess cardiovascular risk in individuals with poor access to medical care facilities.
-              * I found that some features in the eye vasculature, e.g arteriolar to venular diameter ratios, are good predictors for elevated cardiovascualr risk.
+              * Developed an image analysis pipeline for scleral (eye white matter) blood vessels segmentation, classification and geometrical analysis to assess cardiovascular risk in patients with poor access to medical care facilities.
+              * I designed a hardware prototype for the medical device that we used to acquire the scleral images, as well I was responsible for acquiring our dataset in healthy and patient subjects.
+              * I found that some features in the eye vasculature, e.g primary arteriolar to venular diameter ratios, were correlated with high cardiovascular disease risk.
               * This work was the first to quanitfy the utility of using scleral images in predicting cardiovascular risk and other conditions like Preeclampsia,                  a complication that can happen in some pregnancies.
+              * I presented this work as a talk in NIH-IEEE Strategic Conference on Point of Care Technologies for Precision Medicine 2015 in Bethesda and as a poster in the International Symposium on Biomedical Imaging (ISBI) 2016.
+     
     design:
       columns: '2'
   - block: collection
