@@ -29,6 +29,8 @@ interests:
   - synaptic plasticity modeling
   - Machine learning
   - Bayesian inference
+  - Reinforcement learning
+  - Computational neuroscience
 
 # Education to show in About widget
 education:
@@ -36,7 +38,7 @@ education:
     - course: PhD in computational neuroscience
       institution: University of Sheffield
       year: 2022
-    - course: MSc in Medical informatics
+    - course: MSc in informatics and Medical image processing
       institution: Nile University
       year: 2017
     - course: BSc in Biomedical Engineering
